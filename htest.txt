@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 This is test doc now in main changes made
 
+=======
+This is test doc for branch
+>>>>>>> newone
